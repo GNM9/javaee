@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    position: relative;
+    top: 300px;
+    width: 350px;
+    height: 200px;
+    border: #696969 solid 2px;
+    margin: 0 auto;
+}
+
+#titleBox {
+    position: relative;
+    width: 350px;
+    height: 49px;
+    margin: 0 auto;
+    float: left;
+    font-size: 22px;
+    line-height: 49px;
+    text-align: center;
+    background-color: #ece8e6;
+    color: #696969;
+    border-bottom: #696969 solid 1px;
+}
+
+#loginBox {
+    position: relative;
+    width: 350px;
+    height: 100px;
+    margin: 0 auto;
+    float: left;
+    font-size: 18px;
+}
+
+#loginBox span {
+    float: left;
+}
+
+#userNameBox{
+    position: relative;
+    width: 258px;
+    height: 50px;
+    left: 42px;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+    margin:0 auto;
+}
+
+#passWordBox{
+    position: relative;
+    width: 258px;
+    height: 50px;
+    left: 42px;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+    margin:0 auto;
+}
+
+#admUserName {
+    position: relative;
+    width: 200px;
+    height: 24px;
+    float: left;
+    top: 13px;
+}
+
+#admPassWord {
+    position: relative;
+    width: 200px;
+    height: 24px;
+    float: left;
+    top: 13px;
+}
+
+#submitBox {
+    position: relative;
+    width: 350px;
+    height: 50px;
+    margin: 0 auto;
+    float: left;
+    line-height: 49px;
+    text-align: center;
+    background-color: #ece8e6;
+    color: #696969;
+    border-top: #696969 solid 1px;
+}
+
+#loginSubmitButton {
+    width: 60px;
+    height: 30px;
+}
